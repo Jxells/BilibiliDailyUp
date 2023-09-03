@@ -14,9 +14,6 @@ from utils.cookie_f import formate_cookie, get_csrf
 from config import config
 from data.api import Api
 from data.post_data import PostData
-
-
-
 class Bilibili:
     """
     Bilibili的等级升级脚本
